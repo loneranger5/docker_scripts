@@ -1,5 +1,5 @@
 # docker_scripts
-Just a person sh script for my embedded docker containers
+Just a personal sh script for my embedded docker containers
 
 **STEPS**
 
